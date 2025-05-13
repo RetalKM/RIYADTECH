@@ -80,15 +80,12 @@ Matching is determined based on predefined logic and property alignment.
 
 To run the RIYADTECH Flutter app locally:
 
-	1.	Clone the repository
- git clone https://github.com/YOUR_USERNAME/RIYADTECH.git
+	1.	Clone the repository:  git clone https://github.com/YOUR_USERNAME/RIYADTECH.git
 cd RIYADTECH
 
-	2.	Install dependencies
- flutter pub get
+	2.	Install dependencies: flutter pub get
 
- 	3.	Run the app
-  flutter run
+ 	3.	Run the app: flutter run
 
   Make sure you have Flutter SDK installed and a device/emulator connected.
 

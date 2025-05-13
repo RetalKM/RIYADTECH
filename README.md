@@ -80,8 +80,7 @@ Matching is determined based on predefined logic and property alignment.
 
 To run the RIYADTECH Flutter app locally:
 
-	1.	Clone the repository:  git clone https://github.com/YOUR_USERNAME/RIYADTECH.git
-cd RIYADTECH
+	1.	Clone the repository:  git clone https://github.com/YOUR_USERNAME/RIYADTECH.git cd RIYADTECH
 
 	2.	Install dependencies: flutter pub get
 

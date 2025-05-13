@@ -76,3 +76,19 @@ Matching is determined based on predefined logic and property alignment.
 	• Aghared Kadu: Use Cases, Support Page, About Page
 	• Zainab Tahhan: Research, Profile Page, Home Page
 
+ # How to Run the Project
+
+To run the RIYADTECH Flutter app locally:
+
+	1.	Clone the repository
+ git clone https://github.com/YOUR_USERNAME/RIYADTECH.git
+cd RIYADTECH
+
+	2.	Install dependencies
+ flutter pub get
+
+ 	3.	Run the app
+  flutter run
+
+  Make sure you have Flutter SDK installed and a device/emulator connected.
+
